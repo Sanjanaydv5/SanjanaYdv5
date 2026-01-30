@@ -54,7 +54,7 @@ Actively seeking **Full-Stack Developer, MERN Stack Developer, and freelance opp
 
 ### Web Developer Intern  
 **SRIYOG Consulting**, Kathmandu  
-- Developed and maintained full-stack features using **React.js and Node.js**
+- Developed and maintained full-stack features using **Next.js**
 - Built reusable and responsive UI components
 - Integrated backend APIs and authentication flows
 - Collaborated with cross-functional teams in a production environment
@@ -92,7 +92,7 @@ A professional healthcare website developed for a real medical clinic, focused o
 - Production-ready deployment
 
 **Tech Stack:**  
-React.js, HTML5, CSS3, JavaScript
+Next.js, Tailwind CSS TypeScript
 
 ---
 
@@ -108,7 +108,7 @@ A cybersecurity-focused application designed to **educate users and improve phis
 - Emphasis on secure development practices
 
 **Tech Stack:**  
-MERN Stack, JWT Authentication, Secure REST APIs
+Next.js, JWT Authentication, Secure REST APIs
 
 ---
 
@@ -124,7 +124,7 @@ A real-world service-based platform connecting users with gardening and home mai
 - Deployed for real users
 
 **Tech Stack:**  
-React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+Next.js, TypeScript, Tailwind CSS
 
 ---
 
