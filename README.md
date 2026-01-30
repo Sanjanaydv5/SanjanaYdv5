@@ -69,6 +69,7 @@ Open to **Full-Stack Developer, MERN Stack Developer, and freelance opportunitie
 
 - 🏅 Participant, **Janakpur Hackathon**
 - 💼 Web Developer Intern at **SRIYOG Consulting**
+- 🏅 Host & Sponsor Coordinator, **Janakpur Hackathon 2.0**
 - ✅ Built multiple full-stack projects using the MERN stack
 
 ---
@@ -95,7 +96,7 @@ Open to **Full-Stack Developer, MERN Stack Developer, and freelance opportunitie
 ## Contact & Opportunities
 
 - **LinkedIn:** https://www.linkedin.com/in/sanjana-yadav-77a93225b  
-- **Email:** ysanajana637@gmail.com  
+- **Email:** developersana7@gmail.com  
 
 📩 **Open to:**  
 - MERN Stack Developer roles  
