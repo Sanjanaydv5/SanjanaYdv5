@@ -1,79 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sanjana Yadav</h1>
-<h3 align="center">💻 Passionate Web Developer from Nepal 🇳🇵</h3>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Coding Animation" width="600" />
-</div>
+<h1 align="center">Sanjana Yadav</h1>
+<h3 align="center">MERN Stack & Full-Stack Web Developer</h3>
+<p align="center">Nepal 🇳🇵</p>
 
 ---
 
+## Professional Summary
+
+Dedicated **MERN Stack & Full-Stack Developer** with hands-on experience building **real-world, production-ready web applications** using modern JavaScript technologies.  
+Skilled in designing and developing **scalable, secure, and high-performance applications** across the full software development lifecycle — from responsive front-end interfaces to robust backend systems and API integrations.
+
+Experienced in delivering **user-focused, maintainable, and performance-optimized solutions** while following clean code principles and best development practices.  
+Open to **Full-Stack Developer, MERN Stack Developer, and freelance opportunities**.
+
+---
+
+## Technical Skills
+
+### Full-Stack Development
+- **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
+- **Next.js:** Server-Side Rendering (SSR), routing, performance optimization  
+
+### Frontend
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Responsive Web Design  
+- Tailwind CSS  
+
+### Backend
+- Node.js, Express.js  
+- RESTful API development  
+- JWT-based authentication & authorization  
+- MongoDB (schema design, CRUD operations)  
+
+### Tools & Practices
+- Git, GitHub (version control)  
+- Clean code & maintainable architecture  
+- Performance optimization  
+- Secure application development  
+
+---
+
+## Professional Experience
+
+**Web Developer Intern**  
+**SRIYOG Consulting**, Kathmandu  
+- Developed and maintained full-stack web features using **React and Node.js**
+- Built responsive UI components and integrated backend APIs
+- Implemented authentication flows and API interactions
+- Collaborated with cross-functional teams in a production environment
+- Followed best practices for clean, readable, and scalable code
+
+---
+
+## Projects
+
+> Selected MERN and full-stack projects demonstrating real-world development skills.  
+(See repositories for source code and live demos.)
+
+- Full-stack MERN applications with authentication and protected routes
+- RESTful API design and integration
+- Responsive, mobile-first UI development
+- Real-time data handling and state management
+- Version-controlled collaborative workflows using GitHub
+
+---
+
+## Achievements & Activities
+
+- 🏅 Participant, **Janakpur Hackathon**
+- 💼 Web Developer Intern at **SRIYOG Consulting**
+- ✅ Built multiple full-stack projects using the MERN stack
+
+---
+
+## Learning & Career Focus
+
+- Advanced backend architecture and scalability
+- Secure authentication and authorization systems
+- Performance-optimized full-stack applications
+- Open-source contributions
+- Technical blogging (Dev.to / Hashnode)
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanaydv1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv1&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv1&layout=compact&theme=default" height="165" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## Contact & Opportunities
 
-- 🔭 I’m currently working on **frontend projects using React, Next.js & Typescript**
-- 🌱 I’m currently learning **Node.js & advanced Mongodb**
+- **LinkedIn:** https://www.linkedin.com/in/sanjana-yadav-77a93225b  
+- **Email:** ysanajana637@gmail.com  
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjana-yadav-77a93225b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ysanjana637@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+📩 **Open to:**  
+- MERN Stack Developer roles  
+- Full-Stack Developer roles  
+- Freelance projects  
+- Long-term collaborations  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,django,html,css,tailwind,mysql,git,github" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv1&show_icons=true&theme=radical&hide_title=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv1&layout=compact&theme=radical" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanaydv1&theme=radical" />
-</p>
-
----
-
-## 🎯 Goals
-
-- ✅ Contribute to meaningful open-source projects
-- 📚 Master backend with Node.js & Mongodb
-- 🚀 Start blogging technical content on Dev.to or Hashnode
-
----
-## 🏆 Achievements  
- 
-- 💼 Web Developer Intern at **SRIYOG Consulting** (Kathmandu)  
-- 🏅 Participant in **Janakpur Hackathon**  
-
----
-
-## 📣 Favorite Quote  
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*  
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=500&lines=Thanks+for+visiting!+❤️;Happy+Coding!+🚀;Let's+build+something+awesome+🔥" />
-</div>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
