@@ -150,8 +150,8 @@ Next.js, TypeScript, Tailwind CSS
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv1&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv1&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv5&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv5&layout=compact&theme=default" height="165" />
 </p>
 
 ---
