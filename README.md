@@ -45,60 +45,69 @@ I focus on **clean architecture, performance, and scalable solutions** while exp
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 Projects Showcase  
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 1️⃣ Real-Time Chat Application
-**Live Demo:** [Chat App](https://sanjana-chat-app.vercel.app/user-login)  
+### 💬 Real-Time Chat App  
+🔗 **[Live Demo](https://sanjana-chat-app.vercel.app/user-login)**  
 
-**Description:**  
-Full-stack real-time messaging app with focus on **security, performance, and UX**.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Socket.io  
+Full-stack real-time messaging app focused on **security, performance, and smooth UX**.  
 
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://sanjana-chat-app.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
-</p>
+**Tech Stack:**  
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Socket.io`  
 
----
+<img src="https://api.microlink.io/?url=https://sanjana-chat-app.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
 
-### 2️⃣ Kopila Clinic – Medical Website
-**Live Demo:** [Kopila Clinic](https://www.kopilaclinic.com.np/)  
+</td>
 
-**Description:**  
-Professional medical website with **SEO-friendly, responsive design** for real patients.  
-**Tech Stack:** Next.js, Tailwind CSS, TypeScript  
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://www.kopilaclinic.com.np/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
-</p>
+### 🏥 Kopila Clinic  
+🔗 **[Live Demo](https://www.kopilaclinic.com.np/)**  
 
----
+Professional medical website built with **SEO optimization and responsive design** for real-world users.  
 
-### 3️⃣ PhishGuard – Phishing Awareness Platform
-**Live Demo:** [PhishGuard](https://phishguard-project.vercel.app/)  
+**Tech Stack:**  
+`Next.js` • `Tailwind CSS` • `TypeScript`  
 
-**Description:**  
-Cybersecurity education platform focusing on **user phishing awareness**.  
-**Tech Stack:** Next.js, JWT, Secure REST APIs  
+<img src="https://api.microlink.io/?url=https://www.kopilaclinic.com.np/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
 
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://phishguard-project.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 4️⃣ Garden Sewa – Gardening & Home Services
-**Live Demo:** [Garden Sewa](https://www.gardensewa.com/)  
+### 🛡️ PhishGuard  
+🔗 **[Live Demo](https://phishguard-project.vercel.app/)**  
 
-**Description:**  
-Service-based platform connecting users to **home & gardening services**.
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
+Cybersecurity platform designed to **educate users about phishing attacks** and improve awareness.  
 
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://www.gardensewa.com/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
-</p>
+**Tech Stack:**  
+`Next.js` • `JWT` • `Secure REST APIs`  
 
----
+<img src="https://api.microlink.io/?url=https://phishguard-project.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌿 Garden Sewa  
+🔗 **[Live Demo](https://www.gardensewa.com/)**  
+
+Service marketplace connecting users with **home and gardening professionals**.  
+
+**Tech Stack:**  
+`Next.js` • `TypeScript` • `Tailwind CSS`  
+
+<img src="https://api.microlink.io/?url=https://www.gardensewa.com/&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 <p align="center">
