@@ -47,25 +47,16 @@ I focus on **clean architecture, performance, and scalable solutions** while exp
 
 ## 🚀 Projects Showcase
 
-### 💬 Real-Time Chat Application  
-🔗 https://sanjana-chat-app.vercel.app/user-login  
-
-<p align="center">
-  <img src="https://api.microlink.io/?url=https://sanjana-chat-app.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
-</p>
 
 ### 1️⃣ Real-Time Chat Application
 **Live Demo:** [Chat App](https://sanjana-chat-app.vercel.app/user-login)  
 
 **Description:**  
 Full-stack real-time messaging app with focus on **security, performance, and UX**.  
-
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Socket.io  
 
-**Screenshots:**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/chatapp1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/chatapp2.png" width="300" />
+  <img src="https://api.microlink.io/?url=https://sanjana-chat-app.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
 </p>
 
 ---
@@ -75,13 +66,10 @@ Full-stack real-time messaging app with focus on **security, performance, and UX
 
 **Description:**  
 Professional medical website with **SEO-friendly, responsive design** for real patients.  
-
 **Tech Stack:** Next.js, Tailwind CSS, TypeScript  
 
-**Screenshots:**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/kopilaclinic1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/kopilaclinic2.png" width="300" />
+  <img src="https://api.microlink.io/?url=https://www.kopilaclinic.com.np/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
 </p>
 
 ---
@@ -91,13 +79,10 @@ Professional medical website with **SEO-friendly, responsive design** for real p
 
 **Description:**  
 Cybersecurity education platform focusing on **user phishing awareness**.  
-
 **Tech Stack:** Next.js, JWT, Secure REST APIs  
 
-**Screenshots:**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/phishguard1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/phishguard2.png" width="300" />
+  <img src="https://api.microlink.io/?url=https://phishguard-project.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
 </p>
 
 ---
@@ -106,14 +91,11 @@ Cybersecurity education platform focusing on **user phishing awareness**.
 **Live Demo:** [Garden Sewa](https://www.gardensewa.com/)  
 
 **Description:**  
-Service-based platform connecting users to **home & gardening services**.  
-
+Service-based platform connecting users to **home & gardening services**.
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS  
 
-**Screenshots:**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/gardensewa1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/gardensewa2.png" width="300" />
+  <img src="https://api.microlink.io/?url=https://www.gardensewa.com/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
 </p>
 
 ---
