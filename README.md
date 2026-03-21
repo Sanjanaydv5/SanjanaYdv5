@@ -4,167 +4,125 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjana-yadav-77a93225b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
   <a href="mailto:ysanjana637@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sanjanaydv5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 Professional Summary
+## 👨‍💻 About Me
+I'm a passionate **MERN Stack & Full-Stack Developer** building production-ready applications.  
+I focus on **clean architecture, performance, and scalable solutions** while exploring modern web technologies.  
 
-Dedicated **MERN Stack & Full-Stack Developer** with hands-on experience building **real-world, production-ready web applications** using modern JavaScript technologies.
-
-Experienced in designing and developing **scalable, secure, and high-performance applications** across the full development lifecycle — from intuitive front-end interfaces to robust backend systems and RESTful APIs.
-
-Strong believer in **clean code, maintainable architecture, and performance optimization**.  
-Actively seeking **Full-Stack Developer, MERN Stack Developer, and freelance opportunities**.
+📈 **Profile Views:**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjanaydv5&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Full-Stack
-- **MERN Stack:** MongoDB, Express.js, React.js, Node.js  
-- **Next.js:** Server-Side Rendering (SSR), routing, optimization  
-
-### Frontend
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Responsive Web Design  
-- Tailwind CSS  
-
-### Backend
-- Node.js, Express.js  
-- RESTful API development  
-- JWT Authentication & Authorization  
-- MongoDB (Schema design, CRUD operations)  
-
-### Tools & Practices
-- Git & GitHub  
-- Clean Code & Scalable Architecture  
-- Performance Optimization  
-- Secure Application Development  
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive Web Design  
+**Backend:** Node.js, Express.js, MongoDB, RESTful APIs, JWT Auth, Secure & Scalable Architecture  
+**Tools & Practices:** Git, GitHub, Clean Code, Performance Optimization, Agile Collaboration  
 
 ---
 
-## 💼 Professional Experience
+## 🏆 Achievements
 
-### Web Developer Intern  
-**SRIYOG Consulting**, Kathmandu  
-- Developed and maintained full-stack features using **Next.js**
-- Built reusable and responsive UI components
-- Integrated backend APIs and authentication flows
-- Collaborated with cross-functional teams in a production environment
-- Followed best practices for clean, readable, and maintainable code
+- 🏅 **Janakpur Hackathon** – Participant & Host Coordinator  
+- 💻 Developed multiple production-ready **full-stack applications** using the MERN stack  
+- 🌟 Actively contributing to **open-source projects** and technical blogs  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
 
-### 💬 Real-Time Chat Application
-🔗 **Live Demo:** https://sanjana-chat-app.vercel.app/user-login  
+### 1️⃣ Real-Time Chat Application
+**Live Demo:** [Chat App](https://sanjana-chat-app.vercel.app/user-login)  
 
-A full-stack **real-time messaging application** built with the MERN stack, focusing on performance, security, and user experience.
+**Description:**  
+Full-stack real-time messaging app with focus on **security, performance, and UX**.  
 
-**Key Features:**
-- Real-time one-to-one messaging
-- JWT-based authentication and protected routes
-- Responsive, WhatsApp-inspired UI
-- Secure message handling and session management
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Socket.io  
 
-**Tech Stack:**  
-React.js, Node.js, Express.js, MongoDB, JWT, Socket-based communication
-
----
-
-### 🏥 Kopila Clinic – Medical Website
-🔗 **Live Site:** https://www.kopilaclinic.com.np/  
-
-A professional healthcare website developed for a real medical clinic, focused on usability, accessibility, and trust.
-
-**Key Features:**
-- Clean and patient-friendly UI
-- Fully responsive across all devices
-- SEO-friendly structure
-- Production-ready deployment
-
-**Tech Stack:**  
-Next.js, Tailwind CSS TypeScript
-
----
-
-### 🔐 PhishGuard – Phishing Awareness Platform
-🔗 **Live Demo:** https://phishguard-project.vercel.app/  
-
-A cybersecurity-focused application designed to **educate users and improve phishing awareness**.
-
-**Key Features:**
-- Secure authentication system
-- Phishing awareness and prevention modules
-- User-friendly and educational interface
-- Emphasis on secure development practices
-
-**Tech Stack:**  
-Next.js, JWT Authentication, Secure REST APIs
-
----
-
-### 🌱 Garden Sewa – Gardening & Home Services Platform
-🔗 **Live Site:** https://www.gardensewa.com/  
-
-A real-world service-based platform connecting users with gardening and home maintenance services.
-
-**Key Features:**
-- Service listings with intuitive navigation
-- Mobile-first and responsive design
-- Business-oriented UI for customer engagement
-- Deployed for real users
-
-**Tech Stack:**  
-Next.js, TypeScript, Tailwind CSS
-
----
-
-## 🏆 Achievements & Activities
-
-- 🏅 Participant – **Janakpur Hackathon**
-- 💼 Web Developer Intern – **SRIYOG Consulting**
-- 🏅 Host & Sponsor Coordinator – **Janakpur Hackathon 2.0**
-- ✅ Built multiple full-stack applications using the MERN stack
-
----
-
-## 📚 Learning & Career Focus
-
-- Advanced backend architecture and scalability
-- Secure authentication & authorization systems
-- Performance-optimized full-stack applications
-- Open-source contributions
-- Technical blogging (Dev.to / Hashnode)
-
----
-
-## 📊 GitHub Statistics
-
+**Screenshots:**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv5&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv5&layout=compact&theme=default" height="165" />
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/chatapp1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/chatapp2.png" width="300" />
+</p>
+
+---
+
+### 2️⃣ Kopila Clinic – Medical Website
+**Live Demo:** [Kopila Clinic](https://www.kopilaclinic.com.np/)  
+
+**Description:**  
+Professional medical website with **SEO-friendly, responsive design** for real patients.  
+
+**Tech Stack:** Next.js, Tailwind CSS, TypeScript  
+
+**Screenshots:**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/kopilaclinic1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/kopilaclinic2.png" width="300" />
+</p>
+
+---
+
+### 3️⃣ PhishGuard – Phishing Awareness Platform
+**Live Demo:** [PhishGuard](https://phishguard-project.vercel.app/)  
+
+**Description:**  
+Cybersecurity education platform focusing on **user phishing awareness**.  
+
+**Tech Stack:** Next.js, JWT, Secure REST APIs  
+
+**Screenshots:**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/phishguard1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/phishguard2.png" width="300" />
+</p>
+
+---
+
+### 4️⃣ Garden Sewa – Gardening & Home Services
+**Live Demo:** [Garden Sewa](https://www.gardensewa.com/)  
+
+**Description:**  
+Service-based platform connecting users to **home & gardening services**.  
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
+
+**Screenshots:**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/gardensewa1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/sanjanaydv5/assets/main/gardensewa2.png" width="300" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaydv5&show_icons=true&theme=dark&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaydv5&layout=compact&theme=dark" height="165" />
 </p>
 
 ---
 
 ## 📬 Contact & Opportunities
 
-- **LinkedIn:** https://www.linkedin.com/in/sanjana-yadav-77a93225b  
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/sanjana-yadav-77a93225b)  
+- **Email:** [ysanjana637@gmail.com](mailto:ysanjana637@gmail.com)  
 
-📩 **Open to:**
-- MERN Stack Developer roles  
-- Full-Stack Developer roles  
-- Freelance projects  
-- Long-term collaborations  
+**Open to:** Full-Stack / MERN Stack roles, Freelance projects, Long-term collaborations  
 
 ---
 
