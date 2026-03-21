@@ -37,7 +37,9 @@ I focus on **clean architecture, performance, and scalable solutions** while exp
 
 ## 🏆 Achievements
 
-- 🏅 **Janakpur Hackathon** – Participant & Host Coordinator  
+- 🏅 ** Participant – Janakpur Hackathon
+- 💼 ** Web Developer Intern – SRIYOG Consulting
+- 🏅 ** Host & Sponsor Coordinator – Janakpur Hackathon 2.0 
 - 💻 Developed multiple production-ready **full-stack applications** using the MERN stack  
 - 🌟 Actively contributing to **open-source projects** and technical blogs  
 
