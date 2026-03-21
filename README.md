@@ -47,6 +47,13 @@ I focus on **clean architecture, performance, and scalable solutions** while exp
 
 ## 🚀 Projects Showcase
 
+### 💬 Real-Time Chat Application  
+🔗 https://sanjana-chat-app.vercel.app/user-login  
+
+<p align="center">
+  <img src="https://api.microlink.io/?url=https://sanjana-chat-app.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
+</p>
+
 ### 1️⃣ Real-Time Chat Application
 **Live Demo:** [Chat App](https://sanjana-chat-app.vercel.app/user-login)  
 
