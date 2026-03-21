@@ -31,15 +31,15 @@ I focus on **clean architecture, performance, and scalable solutions** while exp
 
 **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive Web Design  
 **Backend:** Node.js, Express.js, MongoDB, RESTful APIs, JWT Auth, Secure & Scalable Architecture  
-**Tools & Practices:** Git, GitHub, Clean Code, Performance Optimization, Agile Collaboration  
+**Tools & Practices:** Git, GitHub, Jira, Postman, Trello, Clean Code, Performance Optimization, Agile Collaboration  
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 ** Participant – Janakpur Hackathon
-- 💼 ** Web Developer Intern – SRIYOG Consulting
-- 🏅 ** Host & Sponsor Coordinator – Janakpur Hackathon 2.0 
+- 🏅 Participant – Janakpur Hackathon
+- 💼 Web Developer Intern – SRIYOG Consulting
+- 🏅 Host & Sponsor Coordinator – Janakpur Hackathon 2.0 
 - 💻 Developed multiple production-ready **full-stack applications** using the MERN stack  
 - 🌟 Actively contributing to **open-source projects** and technical blogs  
 
